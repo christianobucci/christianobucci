@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Christiano Bucci
-- 👀 I’m interested in technology :computer:, computer games :joystick:, trips :beach_umbrella: and dogs :dog:	
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in technology :computer: , computer games :joystick:, trips :beach_umbrella:, music 🎵 and dogs :dog:	
 - 📫 How to reach me:
 - christianobucci@gmail.com
 
